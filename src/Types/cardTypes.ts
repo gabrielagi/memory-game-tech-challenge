@@ -1,6 +1,5 @@
 export interface Card {
-    id: number;
-    image: string;
-    isFlipped: boolean;
-  }
-  
+  id: number;
+  image: string;
+  isFlipped: boolean;
+}

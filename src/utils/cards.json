@@ -1,0 +1,9 @@
+[
+    { "id": 1, "image": "src/assets/cat-card1.png", "isFlipped": false },
+    { "id": 2, "image": "src/assets/cat-card2.png", "isFlipped": false },
+    { "id": 3, "image": "src/assets/cat-card3.png", "isFlipped": false },
+    { "id": 4, "image": "src/assets/cat-card4.png", "isFlipped": false },
+    { "id": 5, "image": "src/assets/cat-card5.png", "isFlipped": false },
+    { "id": 6, "image": "src/assets/cat-card6.png", "isFlipped": false }
+  ]
+  
